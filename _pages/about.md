@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Prabu Madhavan"
+title: "Dr. Prabu Madhavan"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
