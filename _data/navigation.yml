@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
+    url: prabumadhavan.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: prabumadhavan.github.io/talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: prabumadhavan.github.io/teaching/    
     
   - title: "Portfolio"
-    url: /portfolio/
+    url: prabumadhavan.github.io/portfolio/
         
   - title: "Blog Posts"
-    url: /year-archive/
+    url: prabumadhavan.github.io/year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: prabumadhavan.github.io/cv/
     
   - title: "Guide"
-    url: /markdown/
+    url: prabumadhavan.github.io/markdown/
