@@ -3,10 +3,15 @@ permalink: /
 title: "Tim Miller"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+Dr. Prabu M is an Indian academician who is serving as an **Assistant Professor [Sr.Gr]** in the **Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai.** He has 13 years of experience in teaching and research. 
+
+Dr. Prabu M is an alumnus of VIT University, Vellore, Tamil Nadu, India, where he completed his Doctoral – Ph.D. in Computer Science and Engineering with support from ISRO-SAC, Ahmedabad. He has authored research papers that have been published in renowned international journals and conferences, and are indexed in both SCOPUS and SCI. His research primarily focuses on Computer Vision and Distributed Computing. He has served as a resource person and speaker at several conferences and workshops.
+
+He is a Life Member of ISDS Society – International Society for Development and Sustainability, IAENG International Association of Engineers, ISTE-Life Member Indian Society for Technical Education, Internet Society, IFERP-Institute for Engineering Research, and Publication. He holds an online certifications from Coursera, NPTEL and he has completed all the modules in the National Institute of Technical Teachers Training (NITTT) offered by AICTE.
 
 I am a Professor of Artificial Intelligence in the [School of Electrical Engineering and Computer Science](https://eecs.uq.edu.au/) at [The University of Queensland](https://www.uq.edu.au/), Meaanjin/Brisbane, Australia.
 
@@ -25,7 +30,7 @@ If you are prospective PhD student interested in studying for a PhD under my sup
 
 No, I'm not the guy from the Queen's gambit:
 
-<img src="images/queens_gambit.jpg"  width="35%" height="35%"> 
+<img src="images/queens_gambit.jpg"  width="35%" height="35%">
 
 And I'm not [Mr. Maker](https://en.wikipedia.org/wiki/Mister_Maker)  either:
 
