@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Mission and values"
+    url: /mission_and_values/
+
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Students"
+    url: /students/
+
+  - title: "Tips for work-life balance"
+    url: /wl_balance/
+
+  #- title: "CV"
+  #  url: /cv/
