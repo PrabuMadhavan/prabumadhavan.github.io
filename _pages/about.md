@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 <div align="justify">
-Dr. Prabu M is an Indian academician who is serving as an **Assistant Professor [Sr.Gr]** in the **Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai.** He has 13 years of experience in teaching and research.
+Dr. Prabu M is an Indian academician who is serving as an </b>Assistant Professor [Sr.Gr]</b> in the <b>Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai.</b> He has 13 years of experience in teaching and research. <&nbsp>
 
 Dr. Prabu M is an alumnus of [VIT University, Vellore], Tamil Nadu, India, where he completed his Doctoral – Ph.D. in Computer Science and Engineering with support from ISRO-SAC, Ahmedabad. He has authored research papers that have been published in renowned international journals and conferences, and are indexed in both SCOPUS and SCI. His research primarily focuses on Computer Vision and Distributed Computing. He has served as a resource person and speaker at several conferences and workshops.
 
