@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Experience"
-permalink: /mission_and_values/
+permalink: /experience/
 author_profile: true
 ---
 
