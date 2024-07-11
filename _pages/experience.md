@@ -19,7 +19,7 @@ author_profile: true
                 <h3>2023-Current</h3>
                 <h4>Assistant Professor [Selection Grade]</h4>
                 <p>
-                    Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai.
+                    Department of Computer Science and Engineering, Amrita School of Computing, [Amrita Vishwa Vidyapeetham](https://www.amrita.edu/campus/chennai/), Chennai.
                 </p>
             </div>
 
@@ -27,7 +27,7 @@ author_profile: true
                 <h3>2022-2023</h3>
                 <h4>Assistant Professor</h4>
                 <p>
-                    School of Computing Science & Engineering (SCOPE), VIT Bhopal University, Bhopal.
+                    School of Computing Science & Engineering (SCOPE), [VIT Bhopal University](https://vitbhopal.ac.in/), Bhopal.
                 </p>
             </div>
 
@@ -35,21 +35,21 @@ author_profile: true
                 <h3>2019-2022</h3>
                 <h4>Assistant Professor</h4>
                 <p>
-                    Department of Computer Science, CHRIST University, Bangalore.
+                    Department of Computer Science, [CHRIST University](https://christuniversity.in/), Bangalore.
                 </p>
             </div>
             <div data-date="">
                 <h3>2012-2019</h3>
                 <h4>JRF, Assistant Professor [Jr]</h4>
                 <p>
-                    School of Computing Science & Engineering (SCOPE), VIT University, Vellore.
+                    School of Computing Science & Engineering (SCOPE), [VIT University](https://vit.ac.in), Vellore.
                 </p>
             </div>
             <div data-date="">
                 <h3>2010-2012</h3>
                 <h4>JRF [DST]</h4>
                 <p>
-                    Loyola College, Nungambakkam, Chennai.
+                    [Loyola College](https://www.loyolacollege.edu/), Nungambakkam, Chennai.
                 </p>
             </div>
         </div>
