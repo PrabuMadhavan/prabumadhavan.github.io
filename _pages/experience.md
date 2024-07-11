@@ -7,11 +7,11 @@ author_profile: true
 
 
 <div id="experience" class="background-alt">
-        <h2 class="heading">Experience</h2>
+        <h2 class="heading"></h2>
         <div id="experience-timeline">
             <div data-date="">
                 <h3>2023-Current</h3>
-                <h4>Assistant Professor [Selection Grade]</h4>
+                <h4>Assistant Professor (Sl.Gr)</h4>
                 <p>
                     Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai.
                 </p>
