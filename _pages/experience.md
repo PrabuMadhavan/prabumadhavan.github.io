@@ -5,8 +5,6 @@ permalink: /mission_and_values/
 author_profile: true
 ---
 
-### Experience
-## Current PhD and MPhil researchers
 
 * [2023-Current](https://www.amrita.edu/campus/chennai/) - Amrita Vishwa Vidyapeetham, Chennai.
 * [2022-2023](https://vitbhopal.ac.in/) - VIT Bhopal University, Bhopal.
