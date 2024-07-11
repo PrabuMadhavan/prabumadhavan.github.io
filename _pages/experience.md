@@ -12,4 +12,4 @@ author_profile: true
 * [2022-2023](https://vitbhopal.ac.in/) - VIT Bhopal University, Bhopal.
 * [2019-2022](https://christuniversity.in/) - CHRIST University, Bangalore.
 * [2012-2019](https://vit.ac.in) - VIT University, Vellore.
-* [2010-2012] (https://www.loyolacollege.edu/) - Loyola College, Nungambakkam, Chennai.
+* [2010-2012](https://www.loyolacollege.edu/) - Loyola College, Nungambakkam, Chennai.
