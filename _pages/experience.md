@@ -15,29 +15,42 @@ author_profile: true
 <div id="experience" class="background-alt">
         <h2 class="heading">Experience</h2>
         <div id="experience-timeline">
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
+            <div data-date="">
+                <h3>2023-Current</h3>
+                <h4>Assistant Professor [Selection Grade]</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                    Department of Computer Science and Engineering, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Chennai.
                 </p>
             </div>
 
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
+            <div data-date="">
+                <h3>2022-2023</h3>
+                <h4>Assistant Professor</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                    School of Computing Science & Engineering (SCOPE), VIT Bhopal University, Bhopal.
                 </p>
             </div>
 
-            <div data-date="September 2015 – September 2016">
-                <h3>Employer Name</h3>
-                <h4>Job Title</h4>
+            <div data-date="">
+                <h3>2019-2022</h3>
+                <h4>Assistant Professor</h4>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                    Department of Computer Science, CHRIST University, Bangalore.
+                </p>
+            </div>
+            <div data-date="">
+                <h3>2012-2019</h3>
+                <h4>JRF, Assistant Professor [Jr]</h4>
+                <p>
+                    School of Computing Science & Engineering (SCOPE), VIT University, Vellore.
+                </p>
+            </div>
+            <div data-date="">
+                <h3>2010-2012</h3>
+                <h4>JRF [DST]</h4>
+                <p>
+                    Loyola College, Nungambakkam, Chennai.
                 </p>
             </div>
         </div>
     </div>
-    <!-- End #experience -->
