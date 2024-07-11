@@ -1,15 +1,15 @@
 ---
 layout: archive
 title: "Tips for work-life balance"
-permalink: /wl_balance/
+permalink: /teaching/
 author_profile: true
 ---
 
-Below is a series of 25 Tweets that I release over 2022, giving some tips for how to maintain a good work-life balance. 
+Below is a series of 25 Tweets that I release over 2022, giving some tips for how to maintain a good work-life balance.
 
 These tips are from my own experience as a white man in academia, which I have used since I was early career. I make no claims that this will work for everyone all the time, but my time in academia was not staightforward -- I spent 10 years on fixed-term contracts after my PhD.
 
-My primary goal in thinking about my work productively is not to get more work done. My goal is to spend less time doing stuff I don't want to do and more time doing stuff I do want to do. 
+My primary goal in thinking about my work productively is not to get more work done. My goal is to spend less time doing stuff I don't want to do and more time doing stuff I do want to do.
 
 I hope these tips can help you to do the same!
 
@@ -23,7 +23,7 @@ I have the privileges that go with being a white male. But also spent 10 years o
 
 Over the years 2019-2021, I was: Deputy Head of School, founded & co-directed a new university-wide research centre, supervised 8 PhD students & 4 postdocs, taught into 3 subjects, lived through a pandemic, and had my kids schooling at home for months. 4/5
 
-Things didn’t always work out as I wanted, but I kept on top of most things most of the time. 
+Things didn’t always work out as I wanted, but I kept on top of most things most of the time.
 
 Nothing I will share is new: it’s all from looking at what others have done to help themselves. I have some things specific to academia/research that people may find helpful, but I don’t expect all tips will work for all people in all situations 5/5
 
@@ -94,7 +94,7 @@ Don’t believe me? Consider a time that we absolutely couldn’t work on the we
 
 There are some situations where important stuff becomes too much and we need to spend some weekend time doing work, but we should make that the exception, rather than the habit. Our mental health and our family/friend relationships depend on it 5/7
 
-Poet May Sarton says it better than me: 
+Poet May Sarton says it better than me:
 "I always forget how important the empty days are, how important it may be sometimes not to expect to produce anything, even a few lines in a journal. A day when one has not pushed oneself to the limit ... 6/7
 
 ... seems a damaged, damaging day, a sinful day. Not so! The most valuable thing one can do for the psyche, occasionally, is to let it rest, wander, live in the changing light of a room." 7/7
@@ -325,7 +325,7 @@ The trick is better communication habits. Yes, tools like Slack can help, but th
 a)	We can use the ‘cc’ field sparingly. If we cc someone, they may chime in, but we didn’t want them to, or we would have put them in the ‘to’ field.
 b)	We can keep a list of short discussion items and bring to the next meeting instead of starting that email chain 4/7
 
-c)	If possible, we can empower colleagues to do things themselves without micromanaging 
+c)	If possible, we can empower colleagues to do things themselves without micromanaging
 d)	We can use calendar invite attachments or platforms like Teams to share documents instead of emailing them
 e)	We can explicitly let people know if a response is not required 5/7
 
@@ -381,7 +381,7 @@ This pays off over time. The more time we spend on important things now, the les
 
 So, right now, why not try to schedule some important things to do each first thing for the next month? Keep track of what you do (e.g. how many articles you read). After one month, look back and ask yourself: do I wish I had spent more time on urgent, non-important stuff? 6/6
 
- 
+
  
 ## 25. Does it matter?
 

@@ -7,10 +7,10 @@ main:
     url: /publications/
 
   - title: "Research"
-    url: /students/
+    url: /research/
 
   - title: "Teaching"
-    url: /wl_balance/
+    url: /teaching/
 
   #- title: "CV"
   #  url: /cv/
